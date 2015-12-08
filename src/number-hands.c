@@ -14,10 +14,17 @@ static char txt_minutes[3] = "00";
 static char txt_hours[3]   = "00";
 static char txt_date[10]   = "000000000";
 
-#define BG_COLOR GColorDarkGray
-#define HOUR_COLOR GColorLightGray
-#define MINUTE_COLOR GColorBlack
-#define SECOND_COLOR GColorVividCerulean
+// #define BG_COLOR GColorDarkGray
+// #define HOUR_COLOR GColorLightGray
+// #define MINUTE_COLOR GColorBlack
+// #define SECOND_COLOR GColorVividCerulean
+
+#define BG_COLOR GColorVeryLightBlue
+#define HOUR_COLOR GColorPictonBlue
+#define MINUTE_COLOR GColorDukeBlue
+#define SECOND_COLOR GColorRed
+
+
 
 #define HOUR_WITDH  18
 #define HOUR_HEIGHT 57
