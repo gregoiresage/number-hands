@@ -1,3 +1,6 @@
 [submodule "src/fctx"]
 	path = src/fctx
 	url = https://github.com/jrmobley/pebble-fctx.git
+[submodule "pebble-autoconfig"]
+	path = pebble-autoconfig
+	url = https://github.com/gregoiresage/pebble-autoconfig.git
